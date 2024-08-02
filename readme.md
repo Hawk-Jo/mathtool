@@ -4,3 +4,4 @@
 - subtract(x,y) 뺄셈(x-y)
 - multiply(x,y) 곱셈(x*y)
 - divide(x,y) 나눗셈(x/y)
+- square(x,y) 제곱(x^y)
