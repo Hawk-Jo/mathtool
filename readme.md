@@ -3,3 +3,4 @@
 - add(x,y): 덧셈(x+y)
 - subtract(x,y) 뺄셈(x-y)
 - multiply(x,y) 곱셈(x*y)
+- divide(x,y) 나눗셈(x/y)
