@@ -12,4 +12,4 @@ def divide(a,b):
 	return a/b
 
 def square(a,b):
-	return a**b*b
+	return a**b
